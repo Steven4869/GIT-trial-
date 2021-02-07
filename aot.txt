@@ -1,0 +1,3 @@
+this is document for the inclusion of another file in git.
+
+I HAVE SENT THIS FILE TO GIT IGNORE BUT IF I CHANGE ANYTHING IT WILL STILL SHOW THE MIDFIED FILE NOT THE IGNORED FILE 
